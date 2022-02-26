@@ -1,37 +1,37 @@
 fileFormatVersion: 2
-guid: 9b4ae2ba2cf9db247b410d025034a7ba
+guid: 94610d43c9e07e2428dd8a97531adeb0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7449315585393005371
-    second: _AttackCombo_0
+      213: 3204480812468917802
+    second: _Idle_0
   - first:
-      213: 4856998594348899702
-    second: _AttackCombo_1
+      213: 3522011133049882637
+    second: _Idle_1
   - first:
-      213: -2435542611929830694
-    second: _AttackCombo_2
+      213: -2907624155043114565
+    second: _Idle_2
   - first:
-      213: 6041919438817244897
-    second: _AttackCombo_3
+      213: -970496918810939563
+    second: _Idle_3
   - first:
-      213: -2260808172910299392
-    second: _AttackCombo_4
+      213: -6943447523856610506
+    second: _Idle_4
   - first:
-      213: 5490767118842148162
-    second: _AttackCombo_5
+      213: -7487436801176157817
+    second: _Idle_5
   - first:
-      213: 7525261697271343234
-    second: _AttackCombo_6
+      213: 8706567805487113664
+    second: _Idle_6
   - first:
-      213: -2492920802705041202
-    second: _AttackCombo_7
+      213: 4588736447598766473
+    second: _Idle_7
   - first:
-      213: 3490562479767593412
-    second: _AttackCombo_8
+      213: -436730644578740556
+    second: _Idle_8
   - first:
-      213: 182425783198468388
-    second: _AttackCombo_9
+      213: 6042557600975065454
+    second: _Idle_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -145,7 +145,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: _AttackCombo_0
+      name: _Idle_0
       rect:
         serializedVersion: 2
         x: 0
@@ -159,14 +159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3391278e09416760800000000000000
-      internalID: 7449315585393005371
+      spriteID: a26d3c4225a987c20800000000000000
+      internalID: 3204480812468917802
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: _AttackCombo_1
+      name: _Idle_1
       rect:
         serializedVersion: 2
         x: 120
@@ -180,14 +180,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67ddcb2fc76876340800000000000000
-      internalID: 4856998594348899702
+      spriteID: d08c8601772b0e030800000000000000
+      internalID: 3522011133049882637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: _AttackCombo_2
+      name: _Idle_2
       rect:
         serializedVersion: 2
         x: 240
@@ -201,14 +201,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ada689406e6333ed0800000000000000
-      internalID: -2435542611929830694
+      spriteID: bb15f4a7c3b06a7d0800000000000000
+      internalID: -2907624155043114565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: _AttackCombo_3
+      name: _Idle_3
       rect:
         serializedVersion: 2
         x: 360
@@ -222,14 +222,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e6ba38d7b539d350800000000000000
-      internalID: 6041919438817244897
+      spriteID: 55fa9aab13a1882f0800000000000000
+      internalID: -970496918810939563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: _AttackCombo_4
+      name: _Idle_4
       rect:
         serializedVersion: 2
         x: 480
@@ -243,14 +243,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 007b16ce1feff90e0800000000000000
-      internalID: -2260808172910299392
+      spriteID: 63b06f7d34be3af90800000000000000
+      internalID: -6943447523856610506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: _AttackCombo_5
+      name: _Idle_5
       rect:
         serializedVersion: 2
         x: 600
@@ -264,14 +264,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2453bfe6a9f133c40800000000000000
-      internalID: 5490767118842148162
+      spriteID: 78145b346e7471890800000000000000
+      internalID: -7487436801176157817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: _AttackCombo_6
+      name: _Idle_6
       rect:
         serializedVersion: 2
         x: 720
@@ -285,14 +285,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28826b3a4a91f6860800000000000000
-      internalID: 7525261697271343234
+      spriteID: 0c569ea2a41f3d870800000000000000
+      internalID: 8706567805487113664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: _AttackCombo_7
+      name: _Idle_7
       rect:
         serializedVersion: 2
         x: 840
@@ -306,14 +306,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec8959decbd576dd0800000000000000
-      internalID: -2492920802705041202
+      spriteID: 9892307ac777eaf30800000000000000
+      internalID: 4588736447598766473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: _AttackCombo_8
+      name: _Idle_8
       rect:
         serializedVersion: 2
         x: 960
@@ -327,14 +327,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c1aad0e418f07030800000000000000
-      internalID: 3490562479767593412
+      spriteID: 4b65b5beacb60f9f0800000000000000
+      internalID: -436730644578740556
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: _AttackCombo_9
+      name: _Idle_9
       rect:
         serializedVersion: 2
         x: 1080
@@ -348,8 +348,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 429ca65884b188200800000000000000
-      internalID: 182425783198468388
+      spriteID: e6194fc8f1a7bd350800000000000000
+      internalID: 6042557600975065454
       vertices: []
       indices: 
       edges: []
